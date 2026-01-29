@@ -1,15 +1,9 @@
 #base "base_cant_afford.res"
 
-"Resource/UI/build_menu/sentry_cant_afford.res"
+"Resource/UI/Build_Menu/Sentry_Cant_Afford.res"
 {
-	"ItemNameLabel"
-	{	
-		"labelText"		"#TF_Object_Sentry"
-		"labelText_lodef"		"#TF_Object_Sentry_360"
-	}
-	
 	"NumberLabel"
-	{	
-		"labelText"		"1"
+	{
+		"labelText"									"1"
 	}
 }

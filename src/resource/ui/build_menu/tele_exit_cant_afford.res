@@ -1,14 +1,9 @@
 #base "base_cant_afford.res"
 
-"Resource/UI/build_menu/tele_exit_cant_afford.res"
+"Resource/UI/Build_Menu/Tele_Exit_Cant_Afford.res"
 {
-	"ItemNameLabel"
-	{	
-		"labelText"		"#TF_Object_tele_exit_360"
-	}
-	
 	"NumberLabel"
-	{	
-		"labelText"		"4"
+	{
+		"labelText"									"4"
 	}
 }

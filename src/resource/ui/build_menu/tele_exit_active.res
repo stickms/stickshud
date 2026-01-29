@@ -1,19 +1,17 @@
 #base "base_active.res"
 
-"Resource/UI/build_menu/tele_exit_active.res"
+"Resource/UI/Build_Menu/Tele_Exit_Active.res"
 {
-	"ItemNameLabel"
-	{	
-		"labelText"		"#TF_Object_Tele_Exit_360"
-	}
-	
-	"BuildingIcon"	
+	"BuildingIcon"
 	{
-		"icon"			"hud_menu_tele_exit_build"
+		"xpos"										"-5"
+		"ypos"										"0"
+		"wide"										"20"
+		"tall"										"20"
+		"icon"										"obj_status_tele_exit"
 	}
-	
 	"NumberLabel"
-	{	
-		"labelText"		"4"
+	{
+		"labelText"									"4"
 	}
 }

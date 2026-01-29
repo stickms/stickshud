@@ -1,19 +1,17 @@
 #base "base_active.res"
 
-"Resource/UI/build_menu/tele_entrance_active.res"
+"Resource/UI/Build_Menu/Tele_Entrance_Active.res"
 {
-	"ItemNameLabel"
-	{	
-		"labelText"		"#TF_Object_Tele_Entrance_360"
-	}
-	
-	"BuildingIcon"	
+	"BuildingIcon"
 	{
-		"icon"			"hud_menu_tele_entrance_build"
+		"xpos"										"-5"
+		"ypos"										"0"
+		"wide"										"20"
+		"tall"										"20"
+		"icon"										"obj_status_tele_entrance"
 	}
-	
 	"NumberLabel"
-	{	
-		"labelText"		"3"
+	{
+		"labelText"									"3"
 	}
 }

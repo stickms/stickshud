@@ -1,14 +1,9 @@
 #base "base_cant_afford.res"
 
-"Resource/UI/build_menu/dispenser_cant_afford.res"
+"Resource/UI/Build_Menu/Dispenser_Cant_Afford.res"
 {
-	"ItemNameLabel"
-	{	
-		"labelText"		"#TF_Object_dispenser"
-	}
-	
 	"NumberLabel"
-	{	
-		"labelText"		"2"
+	{
+		"labelText"									"2"
 	}
 }

@@ -1,2 +1,4 @@
-# stickshud
-A simplistic TF2 Hud
+# Sticks HUD
+
+Built off of [lighthud](https://github.com/Hypnootize/lighthud) with a lot of (personal) stylistic changes.
+
